@@ -105,7 +105,7 @@ Make sure you have Python 3.7+ installed on your system.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/customer-churn-prediction.git
+git clone https://github.com/Utkarsh-Karambhe/customer-churn-prediction.git
 cd customer-churn-prediction
 ```
 
@@ -169,8 +169,8 @@ customer-churn-prediction/
 
 **Utkarsh Karambhe**
 - 📧 Email: utkarshkarambhe@gmail.com
-- 🌐 [GitHub](https://github.com/utkarshkarambhe)
-- 💼 [LinkedIn](https://linkedin.com/in/utkarshkarambhe)
+- 🌐 [GitHub](https://github.com/Utkarsh-Karambhe)
+- 💼 [LinkedIn](https://www.linkedin.com/in/utkarsh-karambhe-764bb1248/)
 
 ---
 
@@ -200,7 +200,7 @@ Give a ⭐️ if this project helped you!
 ```bash
 cd path_to_your_project_folder
 git init
-git remote add origin https://github.com/yourusername/customer-churn-prediction.git
+git remote add origin https://github.com/Utkarsh-Karambhe/customer-churn-prediction.git
 git add .
 git commit -m "Initial commit - added churn prediction app"
 git branch -M main
